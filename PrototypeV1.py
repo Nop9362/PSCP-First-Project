@@ -7,7 +7,7 @@
 #         #run function "check_schedule"
 
 def main():
-    student_data = ["67070125","67070086"]
+    student_data = ["67070125","67070086","67070052","67070116","67070063"]
     """receive input (Student_ID)"""
     your_student_id = input("Please Enter Your Student ID: ")
     while your_student_id != "End" :
